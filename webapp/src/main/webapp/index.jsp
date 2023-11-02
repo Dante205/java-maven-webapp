@@ -116,7 +116,7 @@
 </head>
 <body>
     <div class="header">
-        <h1>Bienvenido a nuestra Empresa de Tecnología</h1>
+        <h1>Bienvenido a nuestra Empresa de Tecnología DANTE AGUILAR</h1>
     </div>
 
     <div class="navbar">
